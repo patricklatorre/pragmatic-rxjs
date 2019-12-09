@@ -1,5 +1,3 @@
-# ReactiveX
-
 # What is it?
 
 Library for handling asynchronous code by making **event-based** programs
