@@ -8,10 +8,10 @@ const mockDB = new MockDB()
 ///////////////////////////////////////////////////////////
 const searchFieldChange$ = new Subject()
 
-$('#search > .field').on('keyup change', () => {
+$('.field').on('keyup change', () => {
   /* Pump search field input into searchFieldChange$ stream */
   searchFieldChange$.next(
-    $('#search > .field').val().toString()
+    $('.field').val().toString()
   )
 })
 
