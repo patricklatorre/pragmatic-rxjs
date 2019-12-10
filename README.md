@@ -5,6 +5,10 @@ Run `npm install` on the subfolders:
 - 3-search
 
 
+# Getting Started
+To run a project, `cd` into the folder and run `npm start` on terminal.
+
+
 # What is it?
 
 Library for handling asynchronous code by making **event-based** programs
