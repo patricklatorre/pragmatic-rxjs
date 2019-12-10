@@ -1,3 +1,10 @@
+# Installation
+Run `npm install` on the subfolders:
+- 1-helloworld
+- 2-multiclick
+- 3-search
+
+
 # What is it?
 
 Library for handling asynchronous code by making **event-based** programs
